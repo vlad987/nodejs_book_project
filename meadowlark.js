@@ -31,6 +31,8 @@ app.get('/about', function(req, res) {
   });
 });
 
+
+
 // Запрос цен на туры
 
 app.get('/tours/hood-river', function(req, res){
